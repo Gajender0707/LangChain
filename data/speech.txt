@@ -1,0 +1,9 @@
+1. Amazon’s AI-Driven Customer Support
+
+AI Chatbots and Virtual Assistants
+
+Amazon employs AI chatbots and virtual assistants to streamline customer interactions. These tools handle routine inquiries, allowing human agents to focus on complex issues. Amazon Lex, a service for building conversational interfaces, powers these chatbots, enabling natural language understanding and speech recognition .
+
+Alexa+: The Next-Generation Assistant
+
+In 2025, Amazon introduced Alexa+, an AI-enhanced version of its voice assistant. Alexa+ offers more natural conversations, personalized experiences, and the ability to complete tasks like booking rides or retrieving videos from Ring cameras . This upgrade utilizes advanced language models to optimize performance across various tasks
