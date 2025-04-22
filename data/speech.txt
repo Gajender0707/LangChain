@@ -1,9 +1,1 @@
-1. Amazon’s AI-Driven Customer Support
-
-AI Chatbots and Virtual Assistants
-
-Amazon employs AI chatbots and virtual assistants to streamline customer interactions. These tools handle routine inquiries, allowing human agents to focus on complex issues. Amazon Lex, a service for building conversational interfaces, powers these chatbots, enabling natural language understanding and speech recognition .
-
-Alexa+: The Next-Generation Assistant
-
-In 2025, Amazon introduced Alexa+, an AI-enhanced version of its voice assistant. Alexa+ offers more natural conversations, personalized experiences, and the ability to complete tasks like booking rides or retrieving videos from Ring cameras . This upgrade utilizes advanced language models to optimize performance across various tasks
+Handling missing values and performing EDA are crucial steps in data preprocessing. Missing values can distort analysis and model performance, so they are either removed or imputed using strategies like mean, median, or mode. Exploratory Data Analysis (EDA) helps in understanding data patterns, distributions, and relationships between variables. It involves summarizing data using statistics like mean and standard deviation, and visualizing it through histograms, boxplots, count plots, and heatmaps. EDA also helps detect outliers and correlations. Together, handling missing data and EDA ensure that the dataset is clean, reliable, and ready for further modeling or machine learning tasks.
