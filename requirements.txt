@@ -10,3 +10,4 @@ faiss-cpu
 chromadb
 langchain_chroma
 python-dotenv
+streamlit
